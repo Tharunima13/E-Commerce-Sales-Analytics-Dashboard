@@ -41,6 +41,8 @@ The dashboard includes the following Key Performance Indicators (KPIs):
 🎁 Average Discount  
 📊 Profit Margin (%)
 
+<img width="778" height="412" alt="image" src="https://github.com/user-attachments/assets/857015dc-19ca-4181-8f79-562721eff76d" />
+
 
 
 
