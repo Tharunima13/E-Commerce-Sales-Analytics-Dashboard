@@ -93,9 +93,7 @@ Provides a state-level view of sales performance, enabling businesses to identif
 
 ## 📷 Dashboard Preview
 
-https://github.com/Tharunima13/E-Commerce-Sales-Analytics-Dashboard/blob/f7ed14e94385c57ef0b4328536ee2fba4b0f3638/Screenshot%202026-07-05%20003158.png
-					
-	 
+<img width="894" height="507" alt="image" src="https://github.com/user-attachments/assets/515dc520-6b84-423e-bb63-6b0517aab466" />
 
 ## 💡 Key Business Insights
 
@@ -106,8 +104,6 @@ https://github.com/Tharunima13/E-Commerce-Sales-Analytics-Dashboard/blob/f7ed14e
 * Sales peak during November and December, indicating strong seasonal demand.
 * Higher discount percentages often lead to reduced profit margins.
 
-
-
 ## 🎯 Learning Outcomes
 
 This project demonstrates the ability to:
@@ -117,5 +113,7 @@ This project demonstrates the ability to:
 * Build interactive reports for decision-makers.
 * Apply analytical thinking to solve business problems.
 * Present data in a clear and visually appealing format.
+
+Conclusion This project demonstrates how Microsoft Excel can be used as a powerful Business Intelligence tool to analyze E-Commerce sales data and generate actionable insights through interactive dashboards and KPI tracking. 📊
 
 
