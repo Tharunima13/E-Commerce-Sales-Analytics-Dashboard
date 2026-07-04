@@ -93,7 +93,7 @@ Provides a state-level view of sales performance, enabling businesses to identif
 
 ## 📷 Dashboard Preview
 
-Screenshot 2026-07-05 003158.png
+https://github.com/Tharunima13/E-Commerce-Sales-Analytics-Dashboard/blob/f7ed14e94385c57ef0b4328536ee2fba4b0f3638/Screenshot%202026-07-05%20003158.png
 					
 	 
 
